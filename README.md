@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Data Analysis Projects
-- 🌱 I’m currently learning Wordpress, Python for Data Science, Flutter, and Dart
+- 🌱 I’m currently learning Python for Data Analytics
 - 👯 I’m looking to collaborate on improving student's interests in coding projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
